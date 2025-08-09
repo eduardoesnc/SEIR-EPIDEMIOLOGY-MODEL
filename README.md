@@ -30,7 +30,7 @@ Este projeto implementa um modelo híbrido avançado para simular a dinâmica de
 ## 🔧 Como Executar o Projeto
 1.  Clone este repositório:
     ```bash
-    git clone [https://github.com/seu_usuario/Projeto_SEIR_Entropia.git](https://github.com/seu_usuario/Projeto_SEIR_Entropia.git)
+    git clone [https://github.com/eduardoesnc/SEIR-EPIDEMIOLOGY-MODEL.git](https://github.com/eduardoesnc/SEIR-EPIDEMIOLOGY-MODEL.git)
     ```
 2.  Acesse o diretório do projeto:
     ```bash
